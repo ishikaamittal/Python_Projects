@@ -5,8 +5,8 @@ import datetime as dt
 import pandas
 
 
-my_mail = "ivannamacbeth1801@gmail.com"
-password = "ishika@18"
+my_mail = "ivannamacbeth101@gmail.com"
+password = "@18"
 #
 #with smtplib.SMTP("smtp.gmail.com") as connection:
 #    connection.starttls()
